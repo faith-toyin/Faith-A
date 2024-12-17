@@ -1,20 +1,24 @@
 ### About
 My name is Faith Adeogun, I am an undergraduate Finance student at the University of Lagos, eager to gain knowledge, skills, and opportunities for self-improvement and career growth. I am a motivated, highly organized, and detail-oriented virtual assistant and data analyst, I am proficient in using Excel, Power BI, Tableau, SQL, and python. I am committed to delivering high-quality service and achieving outstanding results. i enjoy exploring new data analysis tools and techniques, and i am always looking for opportunities to expand my skills.
 
-My CV in [pdf](#file:///C:/Users/GREAT/Downloads/faith%20adeogun%20intern%20resume.pdf)
+My resume in [pdf](https://github.com/faith-toyin/Faith-Adeogun---Data-Analyst-portfolio-/blob/main/faith%20adeogun%20resume%20pdf.pdf)
+
+### Table of Content
+1. [About](#about)
+2. [Portfolio Project](#portfolio-project)
+    - Project Overview
+    - Data sources
+    - Tools used
+    - Data cleaning
+    - Exploratory Data Anlysis
+    - Data Analysis
+    - Data Visualization
+3. Education
+4. Skills/Interest
+5. Contact
+
 
 ## Project Title: BANK LOAN REPORT
-
-#### Content
-1. [project overview](#project-overview)
-2. [Data sources](#data-sources)
-3. [Tools Used](#tools-used)
-4. [Data cleaning](#data-cleaning)
-5. [Exploratory data analysis](#exploratory-data-analysis)
-6. [Data Analysis](#data-analysis)
-7. [Data Visualization](#data-visualization)
-
-
 ### Project Overview
 In order to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
 
@@ -44,7 +48,6 @@ This involves exploring the data to answer some questions about the data such as
 
 ### Data Analysis
 This is where we include some basic lines of code or queries used during the analysis;
-
 
 TOTAL LOAN APPLICATION
 ```SQL
@@ -150,3 +153,31 @@ where loan_status = 'Charged off'
 
 ![image](https://github.com/user-attachments/assets/44c3a43c-b0e6-4345-9a4d-dc20f9498c86)
  
+## Education
+West African Senior Secondary School Certificate Examination (WASSCE)  ---- Rothmytemmy Schools    July 2019
+
+University Of Lagos -- Akoka, Lagos, Nigeria: Bachelor of science-Bsc, Finance, December 2021-present
+
+## Skills 
+  #### Technical skills
+    -Microsoft Office Suite
+    -Google Workspace
+    -Power BI
+    -Tableau
+    -SQL
+    -Python
+ #### Soft Skills
+     -Verbal and Written Communication
+     -Time Management
+     -Attention to Details
+     -Excellent Organization Skill
+     -Self Motivation and Discipline
+
+## Interest
+  * Data Analytics
+  * Content Creation
+  * Research
+  * Personal Development
+
+
+  
