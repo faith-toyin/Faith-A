@@ -5,7 +5,7 @@ My resume in [pdf](https://github.com/faith-toyin/Faith-Adeogun---Data-Analyst-p
 
 ### Table of Content
 1. [About](#about)
-2. [Portfolio Project](#portfolio-project)
+2. Portfolio Project
     - [Project Overview](#project-overview)
     - [Data sources](#data-sources)
     - [Tools used](#tools-used)
