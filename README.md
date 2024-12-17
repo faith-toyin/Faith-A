@@ -179,5 +179,8 @@ University Of Lagos -- Akoka, Lagos, Nigeria: Bachelor of science-Bsc, Finance, 
   * Research
   * Personal Development
 
-
+## Contacts
+   Email: faithadeogun1@gmail.com
+  
+   LinkedIn: https://www.linkedin.com/in/faith-adeogun/
   
