@@ -1,5 +1,5 @@
 ## About
-My name is Faith Adeogun, I am an undergraduate Finance student at the University of Lagos, eager to gain knowledge, skills, and opportunities for self-improvement and career growth. I am a motivated, highly organized, and detail-oriented virtual assistant and data analyst, I am proficient in using Excel, Power BI, Tableau, SQL, and python. I am committed to delivering high-quality service and achieving outstanding results. i enjoy exploring new data analysis tools and techniques, and i am always looking for opportunities to expand my skills.
+I am an undergraduate Finance student at the University of Lagos, eager to gain knowledge, skills, and opportunities for self-improvement and career growth. I am a motivated, highly organized, and detail-oriented virtual assistant and data analyst, I am proficient in using Excel, Power BI, Tableau, SQL, and python. I am committed to delivering high-quality service and achieving outstanding results. i enjoy exploring new data analysis tools and techniques, and i am always looking for opportunities to expand my skills.
 
 My resume in [pdf](https://github.com/faith-toyin/Faith-Adeogun---Data-Analyst-portfolio-/blob/main/faith%20adeogun%20resume%20pdf.pdf)
 
