@@ -161,18 +161,18 @@ University Of Lagos -- Akoka, Lagos, Nigeria: Bachelor of science-Bsc, Finance, 
 
 ## Skills 
   #### Technical skills
-    -Microsoft Office Suite
-    -Google Workspace
-    -Power BI
-    -Tableau
-    -SQL
-    -Python
+    - Microsoft Office Suite
+    - Google Workspace
+    - Power BI
+    - Tableau
+    - SQL
+    - Python
  #### Soft Skills
-     -Verbal and Written Communication
-     -Time Management
-     -Attention to Details
-     -Excellent Organization Skill
-     -Self Motivation and Discipline
+     - Verbal and Written Communication
+     - Time Management
+     - Attention to Details
+     - Excellent Organization Skill
+     - Self Motivation and Discipline
 
 ## Interest
   * Data Analytics
