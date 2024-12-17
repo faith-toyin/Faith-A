@@ -13,3 +13,10 @@ The primary source of data used here is "financial_loan.CSV" and this is an open
 - Structured Query Language(SQL) for querying data
 - Power BI for Data Visualization
 - Github for building portfolio
+
+### Data Cleaning
+In the initial phase of the data cleaning, the following actions are performed;
+ - Data loading and inspection
+ - Removing Duplicates
+ - Handling missing values
+ - Data formatting
