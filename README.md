@@ -3,13 +3,13 @@
 ## Project Title: BANK LOAN REPORT
 
 #### Content
-1. [project overview](project-overview)
-2. [Data sources](data-sources)
-3. [Tools Used](tools-used)
-4. [Data cleaning](data-cleaning)
-5. [Exploratory data analysis](exploratory-data-analysis)
-6. [Data Analysis](data-analysis)
-7. [Data Visualization](data-visualization)
+1. [project overview](#project-overview)
+2. [Data sources](#data-sources)
+3. [Tools Used](#tools-used)
+4. [Data cleaning](#data-cleaning)
+5. [Exploratory data analysis](#exploratory-data-analysis)
+6. [Data Analysis](#data-analysis)
+7. [Data Visualization](#data-visualization)
 
 
 
