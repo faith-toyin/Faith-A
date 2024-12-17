@@ -102,6 +102,8 @@ SELECT SUM(total_payment) as bad_loan_received_amount from bank_loan_data
 where loan_status = 'Charged off'
 ```
 
+### Data Visualization
+
 
 
  
