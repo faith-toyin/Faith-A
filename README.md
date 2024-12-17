@@ -104,6 +104,7 @@ where loan_status = 'Charged off'
 
 ### Data Visualization
 
+![image](https://github.com/user-attachments/assets/3544f963-4b80-40a8-af80-09115e8c8e24)
 
 
  
