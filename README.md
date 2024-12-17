@@ -42,10 +42,12 @@ This involves exploring the data to answer some questions about the data such as
 ### Data Analysis
 This is where we include some basic lines of code or queries used during the analysis;
 
+
 TOTAL LOAN APPLICATION
 ```SQL
 select count(id) as total_loan_applications from Bank_Loan_data
 ```
+
 TOTAL FUNDED AMOUNT
 ```SQL
 select sum(loan_amount) as total_funded_amount from Bank_Loan_data
