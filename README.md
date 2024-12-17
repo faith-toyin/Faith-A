@@ -160,6 +160,7 @@ West African Senior Secondary School Certificate Examination (WASSCE)  ---- Roth
 University Of Lagos -- Akoka, Lagos, Nigeria: Bachelor of science-Bsc, Finance, December 2021-present
 
 ## Skills 
+
   #### Technical skills
     - Microsoft Office Suite
     - Google Workspace
@@ -167,6 +168,7 @@ University Of Lagos -- Akoka, Lagos, Nigeria: Bachelor of science-Bsc, Finance, 
     - Tableau
     - SQL
     - Python
+    
  #### Soft Skills
      - Verbal and Written Communication
      - Time Management
