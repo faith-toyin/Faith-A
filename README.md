@@ -2,6 +2,18 @@
 
 ## Project Title: BANK LOAN REPORT
 
+#### Content
+1. [project overview](project-overview)
+2. [Data sources](data-sources)
+3. [Tools Used](tools-used)
+4. [Data cleaning](data-cleaning)
+5. [Exploratory data analysis](exploratory-data-analysis)
+6. [Data Analysis](data-analysis)
+7. [Data Visualization](data-visualization)
+
+
+
+
 ### Project Overview
 In order to monitor and assess our bank's lending activities and performance, we need to create a comprehensive Bank Loan Report. This report aims to provide insights into key loan-related metrics and their changes over time. The report will help us make data-driven decisions, track our loan portfolio's health, and identify trends that can inform our lending strategies.
 
