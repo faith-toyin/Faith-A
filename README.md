@@ -1,4 +1,4 @@
-### About
+## About
 My name is Faith Adeogun, I am an undergraduate Finance student at the University of Lagos, eager to gain knowledge, skills, and opportunities for self-improvement and career growth. I am a motivated, highly organized, and detail-oriented virtual assistant and data analyst, I am proficient in using Excel, Power BI, Tableau, SQL, and python. I am committed to delivering high-quality service and achieving outstanding results. i enjoy exploring new data analysis tools and techniques, and i am always looking for opportunities to expand my skills.
 
 My resume in [pdf](https://github.com/faith-toyin/Faith-Adeogun---Data-Analyst-portfolio-/blob/main/faith%20adeogun%20resume%20pdf.pdf)
@@ -6,16 +6,17 @@ My resume in [pdf](https://github.com/faith-toyin/Faith-Adeogun---Data-Analyst-p
 ### Table of Content
 1. [About](#about)
 2. [Portfolio Project](#portfolio-project)
-    - Project Overview
-    - Data sources
-    - Tools used
-    - Data cleaning
-    - Exploratory Data Anlysis
-    - Data Analysis
-    - Data Visualization
-3. Education
-4. Skills/Interest
-5. Contact
+    - [Project Overview](#project-overview)
+    - [Data sources](#data-sources)
+    - [Tools used](#tools-used)
+    - [Data cleaning](#data-cleaning)
+    - [Exploratory Data Analysis](#exploratory-data-analysis)
+    - [Data Analysis](#data-analysis)
+    - [Data Visualization](#data-visualization)
+3. [Education](#education)
+4. [Skills](#skills)
+5. [Interest](#interest)
+6. [Contacts](#contacts)
 
 
 ## Project Title: BANK LOAN REPORT
